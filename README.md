@@ -27,6 +27,7 @@ A collection of individual datasets useful for prompt engineering, training, and
 
 - [Common Pile v0.1](https://huggingface.co/collections/common-pile/common-pile-v01-68307d37df48e36f02717f21): All resources related to Common Pile v0.1, an 8TB dataset of public domain and openly licensed text.<br><br>
 - [Common Corpus](https://huggingface.co/datasets/PleIAs/common_corpus): The largest open and permissible licensed text dataset (2 trillion tokens) including books, newspapers, scientific articles, government/legal documents, code, and more. Created by Pleias and partners for the Current AI initiative.<br><br>
-- [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb): The 🍷 FineWeb dataset consists of more than 15T tokens of cleaned and deduplicated English web data from CommonCrawl. Optimized for LLM performance and processed with the [datatrove library](https://github.com/huggingface/datatrove/blob/main/examples/fineweb.py).
+- [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb): The 🍷 FineWeb dataset consists of more than 15T tokens of cleaned and deduplicated English web data from CommonCrawl. Optimized for LLM performance and processed with the [datatrove library](https://github.com/huggingface/datatrove/blob/main/examples/fineweb.py).<br><br>
+- [CulturaX](https://huggingface.co/datasets/uonlp/CulturaX): Cleaned, enormous, and public multilingual dataset with 6.3 trillion tokens in 167 languages. CulturaX is meticulously cleaned and deduplicated for LLM development, supporting research and advancements in multilingual LLMs.
 
 
