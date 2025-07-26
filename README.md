@@ -9,6 +9,7 @@ This repository is dedicated to tracking prompt libraries and datasets related t
 A curated list of prompt libraries, frameworks, and tools:
 
 - [Wharton School of Business Generative AI Labs Prompt Library](https://hd3ns092ns.notion.site/1b3dc3333315802a9e99cafedb321048?v=1b3dc3333315804693e2000c7ca70b7b): A curated collection of generative AI prompts and resources from the Wharton School of Business.<br><br>
+- [GitHub Spark System Prompt](https://github.com/simonw/system-exploration-g/blob/main/src/system_prompt.md): A comprehensive system prompt for GitHub Spark, providing insights into prompt engineering for code generation and development assistance tools.<br><br>
 
 ---
 
